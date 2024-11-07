@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cảm ơn</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            color: #0d2724;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 80px;
+            color: #25796f;
+        }
+
+        .heart {
+            font-size: 200px;
+            color: #ff0015;
+            margin-top: 20px;
+        }
+
+        p {
+            font-size: 30px;
+        }
+    </style>
+</head>
+
+<body>
+    <img src="Thank.gif" alt="Ảnh động">
+    <h1>Cảm ơn bạn đã xem bài thuyết trình của nhóm 3!</h1>
+    <p>Chúng tôi rất trân trọng sự quan tâm và thời gian của bạn.</p>
+    <div class="heart">❤️</div>
+    <audio loop controls autoplay>
+        <source src="nhac.mp3" type="audio/mp3">
+        <source src="nhac.mp3" type="audio/mp3">
+        <source src="nhac.mp3" type="audio/mp3">
+    </audio>
+</body>
+</html>
